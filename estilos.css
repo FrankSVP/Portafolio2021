@@ -1,0 +1,33 @@
+.fondo-page1{
+    background-image: url(images/img-fondo1.svg);
+    height: auto;
+}
+.fondo-page2{
+    background-image: url(images/img-fondo2.svg);
+    height: auto;
+}
+.fondo-page3{
+    background-color:#FFC139 ;
+    height: auto;
+}
+.fondo-page4{
+    background-color:white !important ;
+    height: auto;
+}
+.color-primario{
+    background-color: #FFC139 !important;
+    color: white !important;
+}
+.espacio-superior{
+    margin-top: 2%;
+}
+.font-amarillo{
+    color: #FFC139  !important;
+}
+.font-blanco{
+    color: white  !important;
+}
+.color-link, .color-link:hover{
+    color: white;
+    text-decoration: none;
+}
